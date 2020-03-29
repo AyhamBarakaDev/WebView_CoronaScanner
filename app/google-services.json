@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694525802009",
+    "firebase_url": "https://coronascanner-442c5.firebaseio.com",
+    "project_id": "coronascanner-442c5",
+    "storage_bucket": "coronascanner-442c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694525802009:android:01a066e6ebc840c2eedc88",
+        "android_client_info": {
+          "package_name": "com.barakeh.corona.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694525802009-ac6dk6mla7sdgs2ui6sefmv282fuoq51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barakeh.corona.scanner",
+            "certificate_hash": "b92aa8ee9e119fa046e4bebad12b9286f603a814"
+          }
+        },
+        {
+          "client_id": "694525802009-fcvsmit5lfs0695qs57506a663c38rb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB71S47Bsye4Ou_9Fl_ZXFdevp7zz3fWHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694525802009-fcvsmit5lfs0695qs57506a663c38rb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
